@@ -348,3 +348,6 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/EmployeeHR.AWSTests/appsettings.json
+/EmployeeHR.AWS/appsettings.json
+/EmployeeHR.AWS/appsettings.Development.json
